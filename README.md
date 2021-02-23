@@ -5,7 +5,7 @@ Fischer random is a variant of chess in which the initial position of white piec
 
 (black pieces are kept similarly opposite to white)
 
-There are 960 possible initial positions, this program generates of these 960 positions randomly.
+There are 960 possible initial positions, this program generates one of these 960 positions randomly.
 The current(and the first!) official world champion in Fischer random chess is grandmaster Wesley So.
 
 Challenge me to a game of fischer random here: https://lichess.org/@/Parth_Bibekar
